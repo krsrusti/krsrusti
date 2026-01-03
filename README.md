@@ -5,7 +5,7 @@
 📫 Connect: [LinkedIn](www.linkedin.com/in/krsrusti) | Email: krsrusti@gmail.com  
 
 ## ⭐ Highlighted Projects
-- **lumberjack** – keylogging-simulation for educational purpose - created using python 
+- **Keylogging-Simulation-for-Security-Awareness** – keylogging-simulation for educational purpose - created using python 
 - **heal-help** –  Developed a web application to record diabetic patients’ blood sugar levels and classify them as low, normal, or high for easy health monitoring - made with HTML,CSS, python Flask library 
 
 
