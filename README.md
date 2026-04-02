@@ -6,7 +6,8 @@
 
 ## ⭐ Highlighted Projects
 - **Keylogging-Simulation-for-Security-Awareness** – keylogging-simulation for educational purpose - created using python 
-- **heal-help** –  Developed a web application to record diabetic patients’ blood sugar levels and classify them as low, normal, or high for easy health monitoring - made with HTML,CSS, python Flask library 
+- **heal-help** –  Developed a web application to record diabetic patients’ blood sugar levels and classify them as low, normal, or high for easy health monitoring - made with HTML,CSS, python Flask library
+- **Legal_Saathi**- AI based legal adi to help people understand documents in their own regional language,and get summaries of their docs,and point out risks 
 
 
 
