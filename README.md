@@ -2,7 +2,7 @@
  I'm Srusti 
 🎓 Student | Aspiring backend developer  
 🔐 Python • FastAPI • Flask  
-📫 Connect: [LinkedIn](www.linkedin.com/in/krsrusti) | Email: krsrusti@gmail.com  
+📫 Connect: www.linkedin.com/in/krsrusti | Email: krsrusti@gmail.com  
 
 ## ⭐ Highlighted Projects
 - **Keylogging-Simulation-for-Security-Awareness** – keylogging-simulation for educational purpose - created using python 
